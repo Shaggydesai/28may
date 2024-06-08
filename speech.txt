@@ -1,0 +1,28 @@
+Hello, My Name is Sagar Desai, I am working at Prodevans as a senior Instructor. 
+
+We have seen the Linux growth from ages and Linux is heart of all the other technologies. 
+
+let's talk about rhel and this time it's rhel9,
+ Since the birth of linux the only organization which constantly giving support to your production is none other than Redhat. 
+
+Red Hat Enterprise Linux is undoubtedly a significant player in the open-source enterprise ecosystem.
+Red Hat Enterprise Linux is market player in the open-source enterprise ecosystem.
+
+The Red Hat business model is based on an open source ecosystem, 
+where collaborative development occurs within a community of professionals focused on providing quality assurance,
+ testing and customer support.
+
+When it comes to security life cycles the major core foundation comes with RHEL9
+RHEL 9.0, the latest major release of Red Hat Enterprise Linux
+, delivers tighter security, as well as improved installation, distribution, and management
+ for enterprise server and cloud environments.
+
+RHEL 9 includes features and enhancements to help achieve long-term IT success by using a common,
+ flexible foundation to support innovation and accelerate time to market.
+
+RHEL 9 is here with GNOME 40, which is a huge leap from the previous one as RHEL 8 supported GNOME 3.28
+By default logging in as root with a password over SSH is disabled. This is a good security measure and helps prevent brute-force attacks
+Live-kernel patching is now supported via the web console.  
+
+There are numerous other features which RHEL9 serves to its customers, so why to wait? 
+Install it and let yourself know :) for more details contact us at Prodevans.
